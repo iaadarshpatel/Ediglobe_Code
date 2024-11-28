@@ -17,6 +17,7 @@
     "axios": "^1.6.7",
     "dotenv": "^16.4.5",
     "firebase": "^10.13.0",
+    "i": "^0.3.7",
     "nodemailer": "^6.9.14",
     "react": "^18.2.0",
     "react-bootstrap": "^2.9.0",
