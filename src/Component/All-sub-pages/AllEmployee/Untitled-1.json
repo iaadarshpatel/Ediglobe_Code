@@ -1,0 +1,27 @@
+{
+  "internshipOptions": {
+    "Business Analytics": "Business Analytics",
+    "Stock Marketing": "Stock Marketing",
+    "Cyber Security": "Cyber Security",
+    "Digital Marketing": "Digital Marketing",
+    "Genetic Engineering": "Genetic Engineering",
+    "Data Science": "Data Science",
+    "Bioinformatics": "Bioinformatics",
+    "Artificial Intelligence": "Artificial Intelligence",
+    "Web Development": "Web Development",
+    "Robotics": "Robotics",
+    "Finance": "Finance",
+    "Python": "Python",
+    "AWS": "AWS",
+    "Machine Learning": "Machine Learning",
+    "App Development": "App Development",
+    "AutoCad": "AutoCad",
+    "Nano Science": "Nano Science",
+    "Human Resource": "Human Resource",
+    "Embedded System": "Embedded System",
+    "Data Structure & Algorithm": "Data Structure & Algorithm",
+    "Java": "Java",
+    "Car Designing": "Car Designing",
+    "VLSI": "VLSI"
+  }
+}
