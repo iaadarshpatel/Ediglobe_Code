@@ -82,10 +82,10 @@ const Pricing = () => {
             <div  class="ag-courses-item_link course_gap" style={{ borderRadius: "20px" }}>
               <div className="ag-courses-item_bg" style={{ backgroundColor: course.dynamicColor }}></div>
               <div class="ag-courses-item_title text-center">
-                <b>{course.course_type}</b> <br />
+                <b>{course.course_type}</b><br />
                 <hr />
                 <div class="plan-cost">
-                  <span class="plan-price d-inline fw-bolder">₹{course.price}</span>
+                  <span class="plan-price d-inline fw-bolder">₹{course.price} <p>+ 18% GST</p></span>
                 </div>
                 {course.course_description ? (
                   <ul style={{ fontSize: "1rem" }} className='text-start'>
